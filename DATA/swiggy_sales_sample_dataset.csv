@@ -1,0 +1,301 @@
+Order ID,Order Date,City,Order Value,Delivery Time (min),Rating,Category
+1001,2024-07-08,Hyderabad,261,46,4.1,South Indian
+1002,2024-07-08,Bangalore,688,27,4.5,Biryani
+1003,2024-07-08,Bangalore,569,31,3.8,Burger
+1004,2024-08-01,Hyderabad,465,28,3.7,Biryani
+1005,2024-08-04,Hyderabad,664,23,4.3,Chinese
+1006,2024-08-11,Mumbai,606,24,3.6,South Indian
+1007,2024-08-02,Bangalore,314,49,4.0,Burger
+1008,2024-08-05,Mumbai,394,39,4.9,North Indian
+1009,2024-08-20,Mumbai,346,33,4.5,Biryani
+1010,2024-08-05,Mumbai,526,23,4.3,Pizza
+1011,2024-08-21,Chennai,407,37,4.5,Pizza
+1012,2024-07-26,Hyderabad,538,31,4.2,Biryani
+1013,2024-07-04,Bangalore,652,22,3.8,Burger
+1014,2024-07-29,Bangalore,480,46,3.9,South Indian
+1015,2024-08-05,Chennai,719,38,4.1,Pizza
+1016,2024-07-01,Hyderabad,586,21,4.1,South Indian
+1017,2024-07-11,Delhi,522,36,3.9,South Indian
+1018,2024-08-18,Bangalore,587,22,3.8,Chinese
+1019,2024-07-07,Delhi,327,46,3.8,Pizza
+1020,2024-08-16,Bangalore,198,28,3.6,Pizza
+1021,2024-08-30,Delhi,539,40,3.6,Chinese
+1022,2024-07-24,Mumbai,796,45,4.3,Burger
+1023,2024-08-08,Chennai,425,42,4.5,North Indian
+1024,2024-08-04,Chennai,780,34,4.8,South Indian
+1025,2024-07-30,Mumbai,351,48,4.2,Chinese
+1026,2024-07-26,Hyderabad,629,36,4.2,South Indian
+1027,2024-07-11,Hyderabad,196,37,3.8,South Indian
+1028,2024-08-04,Bangalore,703,31,3.9,Pizza
+1029,2024-07-02,Chennai,609,27,3.8,Pizza
+1030,2024-08-09,Delhi,162,24,3.9,Chinese
+1031,2024-07-07,Delhi,522,29,4.6,South Indian
+1032,2024-07-26,Chennai,420,47,4.0,Burger
+1033,2024-08-21,Chennai,673,45,5.0,Burger
+1034,2024-07-30,Bangalore,163,23,4.2,North Indian
+1035,2024-08-25,Bangalore,587,38,5.0,Burger
+1036,2024-08-17,Mumbai,409,36,4.5,Chinese
+1037,2024-07-08,Bangalore,656,22,4.7,Biryani
+1038,2024-07-13,Delhi,601,36,4.4,Biryani
+1039,2024-07-07,Delhi,371,37,4.8,Biryani
+1040,2024-07-17,Hyderabad,545,42,4.6,Pizza
+1041,2024-07-12,Mumbai,280,47,3.5,Burger
+1042,2024-08-17,Mumbai,400,30,4.1,South Indian
+1043,2024-07-11,Chennai,409,30,3.6,North Indian
+1044,2024-07-09,Chennai,713,41,3.8,Biryani
+1045,2024-07-14,Delhi,362,41,3.9,Chinese
+1046,2024-08-09,Hyderabad,344,50,4.9,North Indian
+1047,2024-07-11,Hyderabad,659,20,3.6,Burger
+1048,2024-08-01,Delhi,279,24,4.1,Burger
+1049,2024-07-19,Chennai,275,25,3.9,North Indian
+1050,2024-07-15,Mumbai,541,30,4.3,Pizza
+1051,2024-08-23,Hyderabad,198,43,4.1,South Indian
+1052,2024-07-22,Mumbai,478,34,3.9,North Indian
+1053,2024-07-05,Mumbai,255,20,3.5,South Indian
+1054,2024-07-18,Delhi,422,35,4.9,Pizza
+1055,2024-08-20,Chennai,422,23,4.1,Biryani
+1056,2024-08-15,Chennai,731,30,5.0,Chinese
+1057,2024-07-12,Mumbai,407,31,4.8,Chinese
+1058,2024-07-20,Chennai,354,31,4.5,Biryani
+1059,2024-08-07,Hyderabad,699,24,4.9,Pizza
+1060,2024-08-30,Hyderabad,527,32,3.5,Pizza
+1061,2024-07-20,Delhi,424,31,4.3,North Indian
+1062,2024-08-11,Mumbai,766,32,4.1,Pizza
+1063,2024-07-07,Delhi,264,45,4.2,Burger
+1064,2024-08-19,Hyderabad,170,44,4.7,South Indian
+1065,2024-08-07,Bangalore,259,29,4.7,Biryani
+1066,2024-08-19,Mumbai,154,27,3.8,Chinese
+1067,2024-08-30,Hyderabad,745,38,3.8,Biryani
+1068,2024-07-21,Delhi,177,37,4.1,Chinese
+1069,2024-08-27,Mumbai,769,35,3.7,North Indian
+1070,2024-08-24,Hyderabad,795,28,4.0,Burger
+1071,2024-08-21,Chennai,372,26,3.5,Burger
+1072,2024-08-09,Mumbai,680,25,3.5,Chinese
+1073,2024-08-12,Hyderabad,655,41,3.7,South Indian
+1074,2024-07-04,Mumbai,628,27,3.7,Pizza
+1075,2024-07-25,Bangalore,215,24,3.8,Chinese
+1076,2024-07-26,Delhi,746,46,3.5,Biryani
+1077,2024-07-28,Delhi,272,20,3.5,Pizza
+1078,2024-07-10,Bangalore,450,30,4.1,South Indian
+1079,2024-08-15,Bangalore,765,29,4.0,Chinese
+1080,2024-08-08,Mumbai,444,45,3.9,Biryani
+1081,2024-07-20,Delhi,792,49,4.1,Burger
+1082,2024-08-04,Bangalore,656,31,3.9,North Indian
+1083,2024-07-10,Delhi,702,20,3.7,South Indian
+1084,2024-08-09,Chennai,342,20,3.8,North Indian
+1085,2024-08-11,Chennai,663,30,4.3,South Indian
+1086,2024-07-06,Hyderabad,295,20,4.7,South Indian
+1087,2024-08-23,Mumbai,557,46,4.6,Chinese
+1088,2024-08-05,Delhi,481,31,4.7,North Indian
+1089,2024-08-01,Hyderabad,793,49,4.6,Biryani
+1090,2024-08-25,Hyderabad,795,46,4.7,Chinese
+1091,2024-08-23,Bangalore,374,20,3.8,North Indian
+1092,2024-07-23,Mumbai,680,38,4.4,Biryani
+1093,2024-08-03,Mumbai,260,35,4.7,Pizza
+1094,2024-07-11,Delhi,426,35,4.8,Pizza
+1095,2024-07-04,Delhi,230,48,3.9,Chinese
+1096,2024-07-02,Delhi,606,20,4.2,Pizza
+1097,2024-07-30,Hyderabad,441,31,4.5,North Indian
+1098,2024-08-10,Chennai,782,31,4.9,Burger
+1099,2024-08-26,Bangalore,617,31,5.0,Burger
+1100,2024-07-17,Mumbai,310,42,3.8,Pizza
+1101,2024-08-16,Bangalore,625,27,3.8,Burger
+1102,2024-07-04,Hyderabad,587,39,4.6,North Indian
+1103,2024-07-22,Bangalore,791,31,3.5,Chinese
+1104,2024-08-19,Bangalore,764,40,3.6,Burger
+1105,2024-07-14,Bangalore,438,30,4.2,Biryani
+1106,2024-08-18,Chennai,182,43,4.8,Biryani
+1107,2024-08-18,Chennai,194,33,5.0,Burger
+1108,2024-08-22,Delhi,503,38,4.1,South Indian
+1109,2024-08-05,Chennai,221,29,3.8,Burger
+1110,2024-08-16,Hyderabad,219,35,4.4,Burger
+1111,2024-07-27,Hyderabad,757,49,4.3,North Indian
+1112,2024-08-26,Delhi,311,35,4.4,Chinese
+1113,2024-07-20,Mumbai,187,46,3.7,North Indian
+1114,2024-07-16,Mumbai,507,29,3.8,Chinese
+1115,2024-08-06,Mumbai,412,28,3.5,Biryani
+1116,2024-07-23,Mumbai,579,35,3.7,South Indian
+1117,2024-07-03,Chennai,281,44,3.6,Pizza
+1118,2024-07-12,Chennai,383,21,3.6,North Indian
+1119,2024-07-09,Bangalore,442,31,4.4,Burger
+1120,2024-08-19,Chennai,394,21,3.6,South Indian
+1121,2024-07-17,Chennai,194,27,3.5,Biryani
+1122,2024-08-27,Hyderabad,451,44,4.5,Pizza
+1123,2024-08-12,Delhi,249,33,3.6,South Indian
+1124,2024-08-27,Hyderabad,766,29,4.4,North Indian
+1125,2024-07-22,Mumbai,392,21,4.8,North Indian
+1126,2024-08-09,Delhi,265,44,4.4,South Indian
+1127,2024-08-15,Delhi,447,50,3.5,North Indian
+1128,2024-08-13,Delhi,710,40,4.9,Burger
+1129,2024-07-30,Chennai,265,27,3.6,Biryani
+1130,2024-07-26,Delhi,172,26,4.1,Burger
+1131,2024-08-29,Chennai,467,34,3.9,Chinese
+1132,2024-07-31,Chennai,568,48,4.6,Pizza
+1133,2024-08-28,Chennai,620,21,3.6,Burger
+1134,2024-07-26,Hyderabad,260,41,4.3,North Indian
+1135,2024-08-18,Bangalore,333,32,3.8,Chinese
+1136,2024-07-24,Mumbai,300,43,4.9,South Indian
+1137,2024-07-28,Delhi,612,44,4.9,Chinese
+1138,2024-08-25,Chennai,417,29,4.7,Burger
+1139,2024-08-03,Hyderabad,292,35,3.9,South Indian
+1140,2024-08-23,Chennai,571,38,4.7,North Indian
+1141,2024-08-16,Chennai,520,46,3.8,Pizza
+1142,2024-08-14,Mumbai,583,41,3.6,South Indian
+1143,2024-08-27,Hyderabad,711,28,4.9,South Indian
+1144,2024-07-10,Hyderabad,293,35,3.9,Chinese
+1145,2024-07-31,Delhi,643,43,4.9,South Indian
+1146,2024-08-18,Hyderabad,185,32,3.9,South Indian
+1147,2024-07-09,Hyderabad,738,26,4.7,South Indian
+1148,2024-08-21,Chennai,325,44,3.6,South Indian
+1149,2024-08-03,Bangalore,393,43,4.6,Biryani
+1150,2024-07-06,Bangalore,489,21,4.4,South Indian
+1151,2024-08-29,Mumbai,268,31,3.8,Chinese
+1152,2024-07-15,Mumbai,392,20,4.7,Biryani
+1153,2024-08-30,Chennai,703,32,4.2,Burger
+1154,2024-08-14,Mumbai,372,25,4.0,Burger
+1155,2024-08-14,Delhi,339,40,4.2,Chinese
+1156,2024-08-09,Chennai,265,49,4.5,Biryani
+1157,2024-07-23,Bangalore,513,21,3.8,Burger
+1158,2024-07-13,Delhi,738,47,4.6,Pizza
+1159,2024-07-10,Bangalore,359,24,3.9,North Indian
+1160,2024-08-08,Mumbai,447,29,5.0,South Indian
+1161,2024-08-23,Bangalore,305,44,4.4,Burger
+1162,2024-08-19,Delhi,602,45,3.9,Burger
+1163,2024-08-01,Chennai,276,48,4.1,Chinese
+1164,2024-08-08,Chennai,416,47,4.4,South Indian
+1165,2024-08-26,Hyderabad,264,37,4.6,North Indian
+1166,2024-08-05,Mumbai,339,41,4.0,Pizza
+1167,2024-07-21,Mumbai,452,31,4.7,North Indian
+1168,2024-07-11,Bangalore,381,43,3.5,Biryani
+1169,2024-07-15,Mumbai,425,49,3.9,North Indian
+1170,2024-08-18,Delhi,457,25,3.8,North Indian
+1171,2024-08-22,Delhi,436,22,4.6,Biryani
+1172,2024-07-25,Mumbai,242,31,3.9,South Indian
+1173,2024-07-20,Hyderabad,448,26,4.3,South Indian
+1174,2024-08-06,Hyderabad,565,23,4.5,North Indian
+1175,2024-07-08,Chennai,748,41,3.5,South Indian
+1176,2024-08-10,Hyderabad,290,50,4.4,Chinese
+1177,2024-08-04,Chennai,498,45,4.4,South Indian
+1178,2024-08-06,Mumbai,642,35,4.6,Chinese
+1179,2024-08-27,Hyderabad,258,31,3.6,Burger
+1180,2024-08-01,Mumbai,707,40,4.0,Pizza
+1181,2024-08-26,Delhi,474,35,4.3,South Indian
+1182,2024-08-14,Chennai,270,23,4.3,North Indian
+1183,2024-08-06,Delhi,582,36,3.9,North Indian
+1184,2024-08-21,Delhi,555,33,4.1,South Indian
+1185,2024-07-20,Delhi,177,23,4.4,Pizza
+1186,2024-08-13,Bangalore,353,35,3.8,Burger
+1187,2024-08-06,Bangalore,690,45,4.7,Chinese
+1188,2024-08-05,Hyderabad,190,49,3.9,Burger
+1189,2024-07-14,Bangalore,193,36,3.6,Biryani
+1190,2024-08-27,Hyderabad,195,47,5.0,Burger
+1191,2024-08-14,Bangalore,768,49,3.5,Pizza
+1192,2024-08-08,Delhi,335,40,4.3,Pizza
+1193,2024-07-12,Hyderabad,404,37,3.6,Pizza
+1194,2024-08-22,Chennai,459,39,4.7,North Indian
+1195,2024-08-28,Delhi,614,49,3.7,South Indian
+1196,2024-08-13,Bangalore,255,41,4.1,North Indian
+1197,2024-08-29,Mumbai,514,25,4.2,South Indian
+1198,2024-07-27,Mumbai,593,38,4.3,Biryani
+1199,2024-07-12,Bangalore,308,31,4.7,Chinese
+1200,2024-07-13,Bangalore,472,30,3.6,North Indian
+1201,2024-07-12,Mumbai,215,41,4.9,Biryani
+1202,2024-07-18,Chennai,364,26,3.6,North Indian
+1203,2024-08-12,Bangalore,411,41,5.0,Burger
+1204,2024-07-20,Bangalore,332,38,5.0,Chinese
+1205,2024-07-29,Hyderabad,153,49,4.4,Chinese
+1206,2024-08-13,Chennai,226,22,4.9,Chinese
+1207,2024-08-09,Bangalore,594,37,3.5,Burger
+1208,2024-07-23,Mumbai,525,29,4.2,Chinese
+1209,2024-08-03,Delhi,197,41,4.7,Pizza
+1210,2024-07-27,Mumbai,564,28,4.7,North Indian
+1211,2024-08-03,Bangalore,503,26,4.3,Chinese
+1212,2024-08-02,Mumbai,712,26,4.2,North Indian
+1213,2024-08-27,Chennai,347,27,4.1,Biryani
+1214,2024-08-17,Chennai,339,25,3.8,Biryani
+1215,2024-07-20,Hyderabad,373,26,4.2,South Indian
+1216,2024-08-10,Delhi,396,34,4.2,Chinese
+1217,2024-08-15,Bangalore,217,42,4.2,North Indian
+1218,2024-07-26,Mumbai,268,22,4.7,Biryani
+1219,2024-08-30,Mumbai,634,30,4.3,Pizza
+1220,2024-08-05,Bangalore,512,32,4.0,North Indian
+1221,2024-08-25,Chennai,303,39,3.5,North Indian
+1222,2024-08-25,Chennai,692,22,3.6,South Indian
+1223,2024-08-05,Chennai,756,20,3.9,Chinese
+1224,2024-08-26,Hyderabad,304,38,3.6,South Indian
+1225,2024-07-06,Bangalore,749,46,3.9,Burger
+1226,2024-08-02,Bangalore,521,29,4.0,North Indian
+1227,2024-07-20,Delhi,370,23,4.8,Biryani
+1228,2024-08-10,Chennai,780,38,4.2,Burger
+1229,2024-07-11,Bangalore,514,24,3.9,Pizza
+1230,2024-07-13,Chennai,618,47,4.4,South Indian
+1231,2024-07-11,Mumbai,230,39,4.0,South Indian
+1232,2024-08-12,Chennai,790,44,4.3,Chinese
+1233,2024-07-29,Delhi,183,23,4.1,Burger
+1234,2024-08-15,Chennai,657,32,3.7,Chinese
+1235,2024-08-12,Hyderabad,178,45,4.4,Biryani
+1236,2024-07-01,Chennai,262,37,3.9,North Indian
+1237,2024-08-04,Chennai,534,50,4.3,Burger
+1238,2024-07-17,Mumbai,363,22,4.8,Pizza
+1239,2024-08-05,Delhi,332,41,4.0,Chinese
+1240,2024-08-12,Mumbai,317,28,4.1,Pizza
+1241,2024-07-10,Chennai,559,40,3.9,Pizza
+1242,2024-08-11,Hyderabad,501,44,4.4,Biryani
+1243,2024-07-31,Bangalore,261,29,4.3,Biryani
+1244,2024-08-18,Hyderabad,544,45,4.1,Biryani
+1245,2024-08-17,Chennai,534,35,4.2,Chinese
+1246,2024-07-07,Delhi,176,31,3.6,Pizza
+1247,2024-07-09,Bangalore,348,29,3.8,Pizza
+1248,2024-07-02,Chennai,228,39,3.6,South Indian
+1249,2024-08-04,Bangalore,211,21,3.6,Chinese
+1250,2024-08-17,Bangalore,201,44,4.4,North Indian
+1251,2024-07-31,Hyderabad,590,30,4.1,South Indian
+1252,2024-08-25,Bangalore,418,28,3.8,North Indian
+1253,2024-07-17,Bangalore,652,20,4.1,South Indian
+1254,2024-07-22,Bangalore,702,42,3.7,Biryani
+1255,2024-08-22,Delhi,746,49,3.9,Chinese
+1256,2024-08-17,Mumbai,788,46,4.0,Burger
+1257,2024-07-23,Mumbai,282,33,3.7,Burger
+1258,2024-08-18,Bangalore,216,43,3.7,Pizza
+1259,2024-08-27,Delhi,330,49,4.4,South Indian
+1260,2024-08-23,Mumbai,223,22,4.6,Chinese
+1261,2024-08-02,Bangalore,402,46,4.3,Burger
+1262,2024-08-12,Mumbai,465,32,3.7,North Indian
+1263,2024-08-29,Mumbai,502,45,4.5,Chinese
+1264,2024-08-20,Bangalore,321,24,3.6,South Indian
+1265,2024-07-30,Delhi,340,43,3.8,Biryani
+1266,2024-08-07,Bangalore,157,32,4.6,Pizza
+1267,2024-07-11,Bangalore,477,43,4.8,Chinese
+1268,2024-08-04,Bangalore,404,40,4.2,North Indian
+1269,2024-07-06,Bangalore,634,33,3.6,North Indian
+1270,2024-08-08,Bangalore,539,40,4.3,Burger
+1271,2024-08-14,Chennai,436,31,4.8,Biryani
+1272,2024-07-10,Chennai,489,49,4.6,Chinese
+1273,2024-08-27,Delhi,420,23,3.7,South Indian
+1274,2024-07-19,Delhi,431,48,4.1,Pizza
+1275,2024-08-19,Delhi,611,29,4.4,North Indian
+1276,2024-08-21,Mumbai,627,41,3.9,Chinese
+1277,2024-08-12,Chennai,410,44,4.2,Biryani
+1278,2024-07-27,Mumbai,219,27,4.8,Burger
+1279,2024-07-01,Mumbai,749,40,4.5,Biryani
+1280,2024-07-12,Chennai,552,35,4.9,Pizza
+1281,2024-07-19,Bangalore,175,25,4.2,Burger
+1282,2024-08-08,Bangalore,262,43,4.4,Pizza
+1283,2024-07-22,Chennai,422,50,4.3,South Indian
+1284,2024-07-25,Delhi,562,38,4.8,North Indian
+1285,2024-07-29,Chennai,595,47,4.0,Biryani
+1286,2024-07-07,Chennai,186,34,4.1,Chinese
+1287,2024-07-16,Bangalore,725,43,3.6,Biryani
+1288,2024-07-04,Delhi,456,41,5.0,Chinese
+1289,2024-07-12,Bangalore,454,27,4.5,Chinese
+1290,2024-08-05,Hyderabad,691,30,4.5,South Indian
+1291,2024-08-15,Chennai,450,35,3.5,Chinese
+1292,2024-08-02,Bangalore,176,40,4.4,North Indian
+1293,2024-08-05,Chennai,658,49,3.6,Chinese
+1294,2024-08-09,Delhi,192,30,3.9,Chinese
+1295,2024-07-29,Delhi,700,38,4.0,South Indian
+1296,2024-07-24,Hyderabad,252,38,4.2,Pizza
+1297,2024-08-03,Mumbai,265,44,3.8,Pizza
+1298,2024-07-30,Chennai,564,34,4.9,North Indian
+1299,2024-07-24,Bangalore,519,31,4.5,Burger
+1300,2024-08-13,Delhi,322,27,4.8,North Indian
