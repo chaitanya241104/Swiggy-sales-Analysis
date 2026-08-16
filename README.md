@@ -1,5 +1,6 @@
-README
+
 🍔 Swiggy Sales Analysis Dashboard
+
 📊 Project Overview
 This project analyzes Swiggy sales data using SQL, Excel/CSV, and Power BI to identify business insights related to sales performance, restaurants, customers, delivery operations, and profitability.
 
@@ -38,6 +39,7 @@ Revenue by City
 Revenue by Food Category
 Payment Method Distribution
 Order Status Distribution
+
 2️⃣ Restaurant Analysis
 Analyzes restaurant-level performance including:
 
@@ -47,6 +49,7 @@ Restaurant Ratings
 Restaurant Orders
 Top Performing Restaurants
 Restaurant-wise comparisons
+
 3️⃣ Delivery Analysis
 Focuses on delivery operations:
 
@@ -56,6 +59,7 @@ Delivery Distance
 Delivery Fee
 Delivery Success Rate
 Delivery Performance Analysis
+
 4️⃣ Customer Analysis
 Analyzes customer behavior:
 
@@ -65,6 +69,7 @@ City-wise Customer Analysis
 Area-wise Analysis
 Customer Orders
 Customer Behavior Trends
+
 5️⃣ Business Insights
 Provides high-level business insights:
 
@@ -74,6 +79,7 @@ Discount Analysis
 Profit Percentage
 Revenue Performance
 Business KPI Summary
+
 📊 Key Business Metrics
 Based on the current Power BI dashboard:
 
