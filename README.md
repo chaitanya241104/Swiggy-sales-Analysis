@@ -7,9 +7,7 @@ This project analyzes Swiggy sales data using **SQL, Excel/CSV, and Power BI** t
 
 The project contains **5 interactive Power BI dashboards** designed to help understand business performance and support data-driven decision-making.
 
-## 🌐 Live Project
 
-👉 [View Swiggy Sales Analysis Project](https://puneeths602-cpu.github.io/Swiggy-Sales-Analysis/)
 
 ## 🎯 Project Objectives
 
